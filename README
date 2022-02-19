@@ -1,10 +1,6 @@
-# mytty
-Mytty Repository
-
-
 MYTTY
 
-myttyd.sh
+mytty2.sh
 
 Open ssh inside a tmux session.
 
